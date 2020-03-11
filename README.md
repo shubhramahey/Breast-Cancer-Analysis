@@ -1,2 +1,3 @@
 # Breast-Cancer-Analysis
 
+The following project (Breast Cancer Analysis.ipynb) is on Breast Cancer where I created a predictive model to analyze the data to diagnose the Cancer as Malignant or Benign, as well as predict the variables that that influence breast cancer the most. The project focuses on covering data processing, descriptive analytics, EDA, visualization of data, applying Machine Learning techniques, increasing their accuracy to get the best model to predict the cancer data, Hyperparameter Tuning (Cross Validation), training models with the best predictors, ensemble the models, and making a Dashboard and final report about the results.
